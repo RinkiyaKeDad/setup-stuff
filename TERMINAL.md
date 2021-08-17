@@ -10,7 +10,7 @@
 
 ### Custom plugins for oh my zsh
 
-1. Get [zsh-syntax-highlighting]()https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#with-a-plugin-manager using the install via oh my zsh option.
+1. Get [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#with-a-plugin-manager) using the install via oh my zsh option.
 2. Get [zsh-auto-suggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh). Then to fix the partial suggestion accepting feature follow [this](https://stackoverflow.com/questions/6205157/how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line) for iTerm2.
 3. [Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) for adding plugins to oh my zsh.
 
