@@ -16,8 +16,10 @@
 
 Current plugins:
 ```
-plugins=(git golang zsh-autosuggestions zsh-syntax-highlighting kubectl)
+plugins=(git golang zsh-autosuggestions kubectl zsh-syntax-highlighting)
 ```
+
+> Remember to keep `zsh-syntax-highlighting` at the end.
 
 ### iTerm specific settings
 1. Color preset: Pastel (Dark Background)
