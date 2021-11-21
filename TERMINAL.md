@@ -22,7 +22,7 @@ plugins=(git golang zsh-autosuggestions kubectl zsh-syntax-highlighting)
 > Remember to keep `zsh-syntax-highlighting` at the end.
 
 ### iTerm specific settings
-1. Color preset: Pastel (Dark Background)
+1. Color preset: Get the [Ayu Dark](https://github.com/hwyncho/ayu-iTerm/blob/master/ayu%20Dark.itermcolors) theme.
 
 ### Powerlevel9k specific settings
 1. Normal version of [Roboto](https://github.com/powerline/fonts/tree/master/RobotoMono) as Powerline font. Make sure to choose this in iTerm profile font.
