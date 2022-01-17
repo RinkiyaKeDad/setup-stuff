@@ -4,9 +4,8 @@
 ## Steps
 1. Get [Homebrew](https://brew.sh/).
 2. Get iTerm2: `brew install --cask iterm2`
-3. Get zsh: `brew install zsh`
-4. Get [oh my zsh](https://ohmyz.sh/).
-5. Get [powerlevel10k](https://github.com/romkatv/powerlevel10k) using the install via oh my zsh option. (Custom oh my zsh theme)
+3. Get [oh my zsh](https://ohmyz.sh/).
+4. Get [powerlevel10k](https://github.com/romkatv/powerlevel10k) using the install via oh my zsh option. (Custom oh my zsh theme)
 
 ### Custom plugins for oh my zsh
 
@@ -21,18 +20,16 @@ plugins=(git golang zsh-autosuggestions kubectl zsh-syntax-highlighting)
 
 > Remember to keep `zsh-syntax-highlighting` at the end.
 
-### iTerm specific settings
-1. Color preset: Get the [Ayu Dark](https://github.com/hwyncho/ayu-iTerm/blob/master/ayu%20Dark.itermcolors) theme.
+### Preferences
+1. Color theme for everywhere: [Night Owl](https://github.com/sdras/night-owl-vscode-theme)
 
-### Powerlevel9k specific settings
-1. Normal version of [Roboto](https://github.com/powerline/fonts/tree/master/RobotoMono) as Powerline font. Make sure to choose this in iTerm profile font.
 
 ## Add these to VS Code terminal
 1. Add these in the `settings.json`:
 ```
 "terminal.external.osxExec": "iTerm.app",
 "terminal.integrated.shell.osx": "/bin/zsh",
-"terminal.integrated.fontFamily": "Roboto Mono for Powerline"
+"terminal.integrated.fontFamily": "MesloLGS NF"
 ```
 
 ## References
